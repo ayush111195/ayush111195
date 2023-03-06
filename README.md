@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>/><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p> />
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW/fullscreen">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush111195&label=Profile%20views&color=0e75b6&style=flat" alt="ayush111195" /> </p>
