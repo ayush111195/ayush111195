@@ -28,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush111195&show_icons=true&locale=en" alt="ayush111195" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush111195&" alt="ayush111195" /></p>
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![ayush111195 snake gif](https://github.com/ayush111195/ayush111195/blob/output/github-contribution-grid-snake.svg)
+
