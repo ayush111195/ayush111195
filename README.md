@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
