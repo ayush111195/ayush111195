@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="300" src="https://www.hackerrank.com/certificates/39d8c112b678">
+<img align="right" alt="Coding" width="300" src="https://www.hackerrank.com/certificates/iframe/39d8c112b678">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush111195&label=Profile%20views&color=0e75b6&style=flat" alt="ayush111195" /> </p>
 
