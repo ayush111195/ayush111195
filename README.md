@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img align="right" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush111195&label=Profile%20views&color=0e75b6&style=flat" alt="ayush111195" /> </p>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush111195" alt="ayush111195" /></a> </p>
 
+
 - 📫 How to reach me **guptaayush980771@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
