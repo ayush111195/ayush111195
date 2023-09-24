@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush111195" alt="ayush111195" /></a> </p>
 
 
-- 📫 How to reach me **guptaayush980771@gmail.com**
+- 📫 How to reach me **ayushjavadev@gmail.com**
 - 
 
 <h3 align="left">Connect with me:</h3>
